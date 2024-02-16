@@ -1,6 +1,4 @@
-[Email](mailto:acorn421@gmail.com) / [Telegram](https://t.me/acorn421) / [Linkedin](https://linkedin.com/in/acorn421/) / [CV(Long)](/assets/pdf/cv_kim_long.pdf) / [CV(Short)](/assets/pdf/cv_kim_short.pdf)
-
-## Hi, I'm Youngjoon 👋
+# Hi, I'm Youngjoon 👋
 I am a **captain of the R.O.K. Army** and a **Ph.D. student at Korea
 University**. I have experience in both security research and security
 engineering while working at **ADD** and **R.O.K. Cyber Operations
@@ -9,7 +7,11 @@ Command**. Throughout my career, my main focus has been the
 AI to offensive security. To this end, academically, I am interested in
 AI-assisted **fuzzing**. Practically, I am interested in AI-assisted
 **penetration testing**. Recently, I started researching on finding
-vulnerabilities in **smart contracts**.
+vulnerabilities in **smart contracts**. [More](https://acorn421.github.io/about)
+
+## Contact
+
+[Email](mailto:acorn421@gmail.com) / [Telegram](https://t.me/acorn421) / [Linkedin](https://linkedin.com/in/acorn421/)
 
 ## Skills
 
