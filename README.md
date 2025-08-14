@@ -1,13 +1,5 @@
 # Hi, I'm Youngjoon 👋
-I am a **captain of the R.O.K. Army** and a **Ph.D. student at Korea
-University**. I have experience in both security research and security
-engineering while working at **ADD** and **R.O.K. Cyber Operations
-Command**. Throughout my career, my main focus has been the
-**integration of AI and security**. In particular, I would like to apply
-AI to offensive security. To this end, academically, I am interested in
-AI-assisted **fuzzing**. Practically, I am interested in AI-assisted
-**penetration testing**. Recently, I started researching on finding
-vulnerabilities in **smart contracts**. [More](https://acorn421.github.io/about)
+I am a postdoctoral researcher at Georgia Tech, conducting research on AI-driven vulnerability discovery and patching. I received my Ph.D. in Computer Science from Korea University under the supervision of Professor Jiwon Yoon. Previously, I served as a captain in the R.O.K. Army and worked at the Agency for Defense Development (ADD) and the R.O.K. Cyber Operations Command, gaining experience in both security research and security engineering. [More](https://acorn421.github.io/about)
 
 ## Contact
 
